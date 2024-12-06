@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "build": " "
+        "build": "echo 'Build step running...'"
     },
     "author": "",
     "license": "ISC"
