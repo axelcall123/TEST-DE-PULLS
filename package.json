@@ -1,0 +1,11 @@
+{
+    "name": "test-de-pulls",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo 'Build step running...'"
+    },
+    "author": "",
+    "license": "ISC"
+}
